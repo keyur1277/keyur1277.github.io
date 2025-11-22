@@ -8,19 +8,19 @@ To understand Sanskrit, we need to unlearn this aspect.  <br>
 
 When we read नेत्र if we refer to a dictionary to find a meaning, we behaving in post-sanskrit manner, so to day. If we find meaning of नेत्र, from constituent components namely न ए त्र, we are behaving in a way where we are eligible to understand संस्कृत.  
 
-The following example will demonstrate the point - 
-नेत्र = [[ए]] of ([[न]]) + [[त्र]] = संप्रदान of न + त्र 
-Hence, नेत्र means connection to pull a place 
-leading = connection to pull place
-eye = connection to pull (attraction?) place
-root of tree = connect to pull place
-woven silk = referring to process of extracting silk
-cart = connect to pull place
-churning string = connect to pull place
-enema pipe = connection to pull place
-tubular vessel = connect to pull place = another word पात्र - untill rope place
-river = a place to receive pull (from)
-Lakshmi = connect to pull (metaphoric) place 
+The following example will demonstrate the point -   
+नेत्र = [[ए]] of ([[न]]) + [[त्र]] = संप्रदान of न + त्र  
+Hence, नेत्र means connection to pull a place  
+leading = connection to pull place  
+eye = connection to pull (attraction?) place  
+root of tree = connect to pull place  
+woven silk = referring to process of extracting silk  
+cart = connect to pull place  
+churning string = connect to pull place  
+enema pipe = connection to pull place  
+tubular vessel = connect to pull place = another word पात्र - untill rope place  
+river = a place to receive pull (from)  
+Lakshmi = connect to pull (metaphoric) place  
 
 https://kosha.sanskrit.today/word/sa/netra?q=%E0%A4%A8%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0&scope=kosha
 
