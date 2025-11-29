@@ -1,6 +1,6 @@
 # Sanskrit is Special
-## Sanskrit is an ultimate buit-from-pieces languagex
-They was H2O can mean water, ice and steam; Sanskrit words can mean anything derivable from constituent वर्ण. There is no "correct" interpretation. Because Sanskrit emerged BEFORE lexicons were made, there was no place to refer meanings from. Meanings were and are contained in the constituents of a word.   Sanskrit is not like other languages where the meanings of words are derived from established usage - रुढि. 
+## Sanskrit is an ultimate buit-from-pieces language
+The way H2O can mean water, ice and steam; Sanskrit words can mean anything derivable from constituent वर्ण. There is no "correct" interpretation. Because Sanskrit emerged BEFORE lexicons were made, there was no place to refer meanings from. Meanings were and are contained in the constituents of a word.   Sanskrit is not like other languages where the meanings of words are derived from established usage - रुढि. 
 H2O does not derive its physical and chemical properties from any reference book. Similarly, Sanskrit words do not derive meanings from a dictionary. Meaning is derived from the components it is made from.
 
 This leads to a challenge when we, who are habituated to understand words with रुढ meanings, we are rigid in our interpretation. We are accustomed to reading "water" or "ice" or "steam", and when we read "H2O" we restrict our interpretation. 
