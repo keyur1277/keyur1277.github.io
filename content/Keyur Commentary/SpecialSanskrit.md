@@ -9,6 +9,9 @@ To understand Sanskrit, we need to unlearn this aspect.  <br>
 When we read नेत्र if we refer to a dictionary to find a meaning, we behaving in post-sanskrit manner, so to day. If we find meaning of नेत्र, from constituent components namely न ए त्र, we are behaving in a way where we are eligible to understand संस्कृत.  
 
 The following example will demonstrate the point -  
+
+The following example will demonstrate the point -   
+
 नेत्र = [[ए]] of ([[न]]) + [[त्र]] = संप्रदान of न + त्र  
 Hence, नेत्र means connection to pull a place  
 leading = connection to pull place  
