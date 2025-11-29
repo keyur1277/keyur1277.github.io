@@ -1,1 +1,3 @@
-1. for the tim being i am ignoring visarg and schwa in pad. 
+1. for the time being, i am ignoring visaरग  and schwa in pad.
+2. [[नञ्]] becomes [[अ]] and [[अ]] has its meaning Here. So there will always be confusion whether अ means Here or Not. it means Here in pre-Homo Sapience era as the ability to pronounce [[नञ्]] was intact. But after emergence of sapience, अ can also mean Not besoides Here.
+3. I am ignoring  ह्रस्व दीर्घ and  प्लुत as similar in dhatu. I am ignoring उदात्त अनु-दात्त and स्वरित. These 3x3=9 varieties will be captured in different meanings that a वर्ण can take. I am doing this because originally these distinctions were non existant. माहेश्वर सूत्र do not capture these and describe only वर्ण. I am consideting ऐ and औ as stand alone स्वर inspite of knowing that they are संयुक्त  स्वर because माहेश्वर सूत्र designates them as स्वर
