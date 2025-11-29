@@ -6,7 +6,7 @@ H2O does not derive its physical and chemical properties from any reference book
 This leads to a challenge when we, who are habituated to understand words with रुढ meanings, we are rigid in our interpretation. We are accustomed to reading "water" or "ice" or "steam", and when we read "H2O" we restrict our interpretation. 
 To understand Sanskrit, we need to unlearn this aspect.  <br>
 
-When we read नेत्र if we refer to a dictionary to find a meaning, we behaving in post-sanskrit manner, so to day. If we find meaning of नेत्र, from constituent components namely न ए त्र, we are behaving in a way where we are eligible to understand संस्कृत.  
+When we read नेत्र if we refer to a dictionary to find a meaning, we are behaving in post-sanskrit manner, so to say. If we find meaning of नेत्र, from constituent components namely न ए त्र, we are behaving in a way where we are eligible to understand संस्कृत.  
 
 The following example will demonstrate the point -  
 
