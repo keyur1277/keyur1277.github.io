@@ -3,15 +3,19 @@ Title  : "Introduction"
 Author : "Keyur Joshi"
 ---
 # Introduction 
-1. [[SpecialSanskrit|Sanskrit is a special language]]
-2. All sentences (वाक्य) are made of, and derive meaning from, constituent words (पद)
-3. All पद are made up of, and derive their meaning from,  two or more धातु (all components smaller than पद are धातु in my lexicon, so all प्रत्यय, अव्यय उप सर्ग, etc, all classify as धातु)
-4. All धातु are made up of, and derive their meaning from, वर्ण.
-5. वर्ण had its own intrinsic meaning. This meaning arose from brain circuitry and is not man-made. वर्ण and their meanings are thus स्वयं प्रोक्ताः स्वयं भुवा - self told and existing of its own accord. 
-6.  Intrinsic meanings of वर्ण are lost but can be deciphered.
-7.  From this, we can rediscover the meaning and context of धातु (including प्रत्यय, उपसर्ग, अव्यय etc ).
-8. From the meaning of धातु, we can rediscover the meanings and context of पद
-9.  With this, we can understand श्रुति and स्मृति in their context
-10.  In the process, we will also know a lot about the history of our ancestors
+1. All sentences (वाक्य) are made of, and derive meaning from, constituent words (पद/शब्द).
+3. All पद//शब्द are made up of, and derive their meaning from, वर्ण.  [[SpecialSanskrit|This is why Sanskrit is a special language]]
+4. वर्ण have/had their own specific meanings from which पद//शब्द derive their meanings.
+   Intrinsic meaning of वर्ण arose from brain circuitry existing in species in which particular वर्ण emerged. It is likely that different वर्ण emerged during the reign of different species as the evolution of Hominins (starting from Great Apes) and the evolution of language occurred hand in hand.  
+6s.  These original intrinsic meanings of वर्ण are unknown at present. Because Sanskrit words derive their meanings from constituent वर्ण, it is possible to decipher the original intrinsic meanings of वर्ण.
+7.  I have a working cypher. It is WIP but working sufficiently enough as a proof of concept.
+8.  Once the cypher is established beyond doubt, it will improve our understanding of श्रुति and स्मृति.  
+11.  In the process, we will also know a lot about the history of our ancestors.
+12.  From primary findings, I believe, our oral traditions have the history of a few lakh years preserved, going back to at least Homo Erectus.  
 
-I am working on this. This site is made to share that work.
+I am working on fine-tuning the Cypher. This site is made to share that work.
+
+Examples - 
+[[नेत्र]]
+
+[[लेप]] and [[लोप]]
