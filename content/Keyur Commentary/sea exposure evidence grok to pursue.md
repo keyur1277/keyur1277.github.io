@@ -32,7 +32,7 @@ pulse ~1.6–1.0 mya)        highest selection coefficients  2022; Ye & Gao 2024
 1.7 ± 0.4 mya               Extremely strong – freshwater   Brabec et al. 2021, 2023; 
                            cycle cannot produce this split Kuchta et al. 2025
 
-~1.8 mya → ~400 kya        Very strong – no fully          Verhaegen & Munro 2022; 
+- [ ] ~1.8 mya → ~400 kya        Very strong – no fully          Verhaegen & Munro 2022; 
 (present in every well-    terrestrial mammal ever evolves Rhys Jones et al. 2024 
 preserved erectus postcranium) this trait in saltwater       (CT re-analysis of 27 femora)
 
