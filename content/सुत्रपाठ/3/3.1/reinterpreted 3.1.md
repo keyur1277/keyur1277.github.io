@@ -1,3 +1,4 @@
+#### Section 1
 [[3.1.1]] :  join नल with नारिकेत / तुम्बी / ताड़फल (all expressed as त)
 [[3.1.2]] : (make) aquatic vine long (by) again/knot/repeat
 [[3.1.3]] : intertwine tumbies and make vine long 
@@ -35,6 +36,10 @@ inward (insert) sharp stone (and) join till align inside verticle (rope) inward 
 [[3.1.30]] : hand hold  ए(fish) subjugate push outside
 [[3.1.31]] before wave rolling in joins, for superior carrying, carry tumbi with stone outward before wave
 [[3.1.32]] : sraighten pull before inward wave joins upto tumbi, carry before wave tightens tumbi, i.e. complete "carry" activity before incoming tide
+
+#### Section 2
+[[3.1.33]] : 
+[[3.1.34]]
 	
 
 

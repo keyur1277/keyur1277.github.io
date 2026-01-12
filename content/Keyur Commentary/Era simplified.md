@@ -43,31 +43,31 @@ It divides the long journey into different "Eras" based on major changes in how 
 - The difference between verbs and nouns begins to appear, but is not fully fixed yet.
 - Concepts of वचन, पुरुष, लिंग and काल - number (singular/dual/plural), person (I/you/he), gender, and tense do not exist yet. 
 - Institutionalised teaching (passing knowledge systematically) begins in this era — a mix of speech and action.
-- This - teaching - is why [[शिव सूत्र]] survived — they were originally linked to gestures (नृत), but the gestures were later lost.
+- This institution of teaching is why [[शिव सूत्र]] survived — they were originally linked to gestures (नृत), but the gestures were later lost.
 
 ### 5. तिङ् Era - Seafaring Era
 -This Era starts with तिङ् प्रत्यय emergence and ends with evolution of language that is identifiable as संस्कृत - with सुप , तिङ्, वचन, पुरुष,लिंग, काल, उप सर्ग, प्रत्यय, विकरण, अव्यय, प्रातिपदिक and पद. 
 - Begins around 10–15 lakh years ago with seafaring.
 - Verb and noun distinction becomes fully clear.
-- Concepts of number, person, and tense appear as grammetical concepts.
+- Concepts of number, person, and tense appear as grammatical concepts.
 - Verb endings (तिङ् प्रत्यय) develop — when read through their वर्ण समास, they all relate to seafaring activities.
 - Formal education for language and life skills grows a lot.
 - This helps preserve धातु पाठ and सूत्र पाठ with high accuracy, even though later humans could not pronounce all the original sounds.
-- Institutionalisation and respect for these texts helped them survive major disasters like many LGM (with Homo Erectus) and the Bølling-Allerød - Younger Dryas (with Homo Sapcience with sizeable loss in texts).
-- तिङ् Era starts with sea faring, somewhere around 10-15 lakh year ago and ends at some point before the Bølling-Allerød - Younger Dryas. We do not know when.
+- Institutionalisation and respect for these texts helped them survive major disasters like many LGM (with Homo Erectus) and the Bølling-Allerød & Younger Dryas (with Homo Sapiiense with sizeable loss in texts).
+- तिङ् Era starts with seafaring, somewhere around 10-15 lakh year ago and ends at some point before the Bølling-Allerød & Younger Dryas. We do not know when.
 
 ### 6. पूर्व संस्कृत Era
 - Language develops into what we recognise as early संस्कृत (through Panini’s work).
-- Starts sometime after the तिङ् era (Homo Erectus) and ends with the Bølling-Allerød - Younger Dryas catastrophe (~12,000 years ago).
-- Bølling-Allerød - Younger Dryas (or earlier Interglacial events) caused huge migrations — the first big wave of human movement across the world.
+- Starts sometime after the तिङ् era (Homo Erectus) and ends with the Bølling-Allerød & Younger Dryas catastrophe (~12,000 years ago).
+- Bølling-Allerød & Younger Dryas (or earlier Interglacial events) caused huge migrations — the first big wave of human movement across the world.
 - Many languages around the globe show Sanskrit-like roots because of this migration.
 - Core of the वेदाङ्ग (grammar, phonetics, etc.) comes from this period and is older than the वेद we know today. वेदान्त is different and occurred post वेद. 
 
 ### 7. वैदिक or उत्तर संस्कृत Era
-- Starts after the Bølling-Allerød - Younger Dryas (~12,000 years ago) and ends when the Sarasvati River fully dries up (~1500 BC).
+- Starts after the Bølling-Allerød & Younger Dryas (~12,000 years ago) and ends when the Sarasvati River fully dries up (~1500 BC).
 - Agriculture, pottery, and city life develop.
-- This is the time of the Sarasvati (Indus-Harappan) Civilisation. This is वैदिक civilization. Almost all hymns that we have today are composed in this period. The concept of knowledge being eternal and words being "seen", are श्रुति and स्मृति from pre- Bølling-Allerød -Younger Dryas teachings aboutdevelopement of language. Concepts of अ-पौरुषेय words seen by दृष्टा ऋषि , are memories (स्मृति) of teachings about emergence of language in पूर्व संस्कृत Era. Most likely those teachings, now lost except for वेदाङ्ग, were also called वेद. 
-- By this era, the Sanskrit language as we know it is fully formed and has lost understanding of its own evolution. प्रत्यय are known.But what that प्रत्यय means and why it has a particular usage, is largely lost.
+- This is the time of the Sarasvati (Indus-Harappan) Civilisation. This is वैदिक civilization. Almost all hymns that we have today are composed in this period. The concept of knowledge being eternal and words being "seen", are श्रुति and स्मृति from pre- Bølling-Allerød & Younger Dryas teachings about developement of language. Concepts of अ-पौरुषेय words seen by दृष्टा ऋषि , are memories (स्मृति) of teachings about emergence of language in पूर्व संस्कृत Era. Most likely those teachings, now lost except for वेदाङ्ग, were also called वेद. 
+- By this era, the Sanskrit language as we know it is fully formed and has lost understanding of its own evolution. प्रत्यय are known. But what that प्रत्यय means and why it has a particular usage, is largely lost.
 - It is known that all words have derived meanings. And It is painfully acknowledged that those meanings are lost/being lost. 
 
 ### 8. Churn Era
@@ -102,4 +102,4 @@ Footnotes:
 [^11]: 3.3-million-year-old stone tools from Lomekwi 3, West Turkana by Sonia Harmand and others https://www.nature.com/articles/nature14464
 [^12]: The phonological loop as a language learning device By A Baddeley and others. https://pubmed.ncbi.nlm.nih.gov/9450375/
 [^13]: Hominins on Sulawesi during the Early Pleistocene by B Hakim and others. https://www.nature.com/articles/s41586-025-09348-6
-[^14]: We have ऌ present in शिव सूत्र, and there are two distinct ह. This indicates that they predate sapience. Also we do not have concept of ह्रस्व दीर्घ प्लुत in शिव सूत्र. This means शिव सूत्र predate तिङ् and seafaring, activity from which concept of ह्रस्व(shore) दीर्घ(deep) प्लुत (afloat) and their technical name मात्रा emerged. This makes शिव सूत्र in pre- तिङ् era.
+[^14]: We have ऌ present in शिव सूत्र, and there are two distinct ह. This indicates that they predate sapiens. Also we do not have concept of ह्रस्व दीर्घ प्लुत in शिव सूत्र. This means शिव सूत्र predate तिङ् and seafaring, activity from which concept of ह्रस्व(shore) दीर्घ(deep) प्लुत (afloat) and their technical name मात्रा emerged. This makes शिव सूत्र in pre- तिङ् era.

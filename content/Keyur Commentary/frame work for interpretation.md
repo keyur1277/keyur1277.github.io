@@ -16,7 +16,7 @@ These are rules i will follow for interpretation
 4. प्रातिपदिक समास are to be treated as वर्ण समास. This does make life complicated if we do not go by रूढ अर्थ  and go by लौकिक अर्थ, We will go by lityeral meaning or skip. रूढ अर्थ may not be correct and will not add any new information in any case.
 5. प्रातिपदिक समास are to be interpreted with their "should-have-been-there"/"would-have-been-there" अनुबंध and इत् संज्ञक वर्ण. So कृत will be interpreted as  [[डुकृञ्]] + [[क्त]] and not as [[क]] + [[ऋ]] + [[त]].
 6. When there is a उणादी प्रत्यय we will explore पद as वर्ण समास as well as with अनुबंध and इत् संज्ञक वर्ण and will go by what i deem fit. This interpretation can be altered later, by me or the next generations, if they find that more suitable. So, पद made with उणादी can be interpreted as वर्ण समास as well as प्रत्यय-derived पद. 
-7. Visarg (ह) and Schwa (अ) are ignored. They can be interpreted as "exist" or "here." Both concept are default settings in our (modern H Sapience) linguistic setup and do not need to be expressly mentioned every time.
+7. Visarg (ह) and Schwa (अ) are ignored. They can be interpreted as "exist" or "here." Both concept are default settings in our (modern H Sapiens) linguistic setup and do not need to be expressly mentioned every time.
 2. धातु and प्रत्यय 
     1. धातु are always interpreted from मूल रूप.
     2. धातु are always interpreted as वर्ण समास

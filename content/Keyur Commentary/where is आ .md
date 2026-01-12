@@ -8,7 +8,7 @@
 **Facts**
 1. Pronunciation of आ requires a specific anatomical configuration: (1) a descended larynx/tongue root caused by, (2) orthognathic facial structure resulting in change in position of larynx/tongue root . both resulting in more phyrangeal room for tongue movement, making low vowels possible. [^2]
 2. These changes occurred with Homo Sapiens. Earlier Homo species would not have been able to produce low vowels including आ.
-3. Sapience were the only Homo species extant by 40 kya [^3]. and they were *not* unable to produce आ. 
+3. Sapiens were the only Homo species extant by 40 kya [^3]. and they were *not* unable to produce आ. 
 
 **Deduction**
 Therefore, set A is chronologically earlier than set B, with the dividing line being the timing of the anatomical evolution that enabled the clear production of low vowels, specially आ.
@@ -21,7 +21,7 @@ Therefore, set A is chronologically earlier than set B, with the dividing line b
 **Caveat and answer** 
 1. Absence of आ may not have been an inability to pronounce आ.
 When we think of ऌ, this objection does not stand. [[ऌ]] is such a rare and archaic phoneme; its presence in Set-1 is an affirmation that whatever could be produced, and was used, was included in the universal inventory list of phonemes for extant language.
-2. There is some ambuity in what vowels could be pronounced by which specie. Exact inventory is not precisely known as on date but the direction is cledar - startingt from oinability to produce Quantals in deep evolution  history (Apes?) to Modern Sapiencne abilities. It is gradual shift and the mark we are interested in is when /ə/ or /ʌ/, /i/,/u/, /e/, /o/, /ai/, / au̯ / are distinguished as vowels but not /a/. Future research may identify the last specie unable to produce /a/ but we know that it is not Sapience. This alone pushed time line for शिव सूत्र back to at least prior to 40kya and potentially prior to 315kya. 
+2. There is some ambiguity in what vowels could be pronounced by which specie. Exact inventory is not precisely known as on date but the direction is cledar - startingt from inability to produce Quantals in deep evolution  history (Apes?) to Modern Sapiens' abilities. It is gradual shift and the mark we are interested in is when /ə/ or /ʌ/, /i/,/u/, /e/, /o/, /ai/, / au̯ / are distinguished as vowels but not /a/. Future research may identify the last specie unable to produce /a/ but we know that it is not Sapiens. This alone pushed time line for शिव सूत्र back to at least prior to 40kya and potentially prior to 315kya. 
 
 
 

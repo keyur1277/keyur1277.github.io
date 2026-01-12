@@ -33,16 +33,16 @@ Traditional Sanskrit grammar considers दीर्घ अ as आ. But दीर
 #### ऋ and ऌ are स्वर and अ-स्पृश्य 
 ऋ and ऌ are described as स्वर and are distinct from स्पृश्य [^4]. This means they have to be produced without tongue, teeth or lips touching each other. When we try to produce these sounds this way, let us say by holding tongue, we get distinct sounds. I am considering these as original ऋ and ऌ.
 Evidently ऋ is Roar and ऌ is Yelp/wail.
-The way they are descrived and rememberd, these can not be produced by Sapience easily and They certainly can not be combined with other consonanrts (व्यंजन) to produce consonant+vowel combined sound. Sapience anatomy is not suitable for this.
+The way they are described and rememberd, these can not be produced by Sapiens easily and They certainly can not be combined with other consonanrts (व्यंजन) to produce consonant+vowel combined sound. Sapiens anatomy is not suitable for this.
 Because आ is absent and ऋ & ऌ both are present, I conclude that creation of शिव सूत्र predated Sapeicnce.
 
 #### Two ह 
-Two distinct ह are mentioned in शिव सूत्र. Once again, We humans have two distinctly produced ह,  but are unable to distinguish these with our auditary circuits.  The fact that these two were disntinctly perceieved is reflected in शिव सूत्र containing both of these. We "hear" these are one वर्ण in spite of two totally different mechanisms of production. This also indicates pre-sapience origin of शिव सूत्र. Brain circuitry was there to identify these two as distinct was present at some point. Distinction was lost at some point either thru anatoical evolution or thru linguistic evolution.
+Two distinct ह are mentioned in शिव सूत्र. Once again, We humans have two distinctly produced ह,  but are unable to distinguish these with our auditary circuits.  The fact that these two were disntinctly perceieved is reflected in शिव सूत्र containing both of these. We "hear" these are one वर्ण in spite of two totally different mechanisms of production. This also indicates pre-sapiens origin of शिव सूत्र. Brain circuitry was there to identify these two as distinct was present at some point. Distinction was lost at some point either thru anatoical evolution or thru linguistic evolution.
 
 #### Absence of grid of 3x3x2
  There are 18 ways in which a स्वर can be pronunced in Sanskrit. उदात्त अनुदात्त and स्वरित are three "tones". ह्रस्व दीर्घ and प्लुत are three temporal durations/ langth. This gives us a gris of 3x3 for each स्वर. Besides this each स्वर can be nasal or normal. Thus each स्वर can have 3x3x2  varieties.
  These varieties are absent in शिव सूत्र. It could be absent for sake of brevity. Or it is absent because ability to produce these varieties, that requires fine control of speech muscles was absent.
- We do not know exactly when necessory anatomical ahrdward evolved to enable production of these varieties. But we know for sure that these are present in Sapience. So if absence of these in शिव सूत्र is considered proof of inability, शिव सूत्र must predate Sapience. Like earlier discussion on आ this also puts शिव सूत्र minimum 40kya and potentially, likely, 315 kya.
+ We do not know exactly when necessory anatomical ahrdward evolved to enable production of these varieties. But we know for sure that these are present in Sapiens. So if absence of these in शिव सूत्र is considered proof of inability, शिव सूत्र must predate Sapiens. Like earlier discussion on आ this also puts शिव सूत्र minimum 40kya and potentially, likely, 315 kya.
 
  #### Absence of ळ
  ळ is absent in शिव सूत्र and all धातु. But is present in later day वेद. Though वैदिक people had ability to produce ळ, it was accepted in संधि but never accepted as constituent of word. this is so because by the time ळ came into being, language was mostly evolved except for साँध. 
@@ -52,16 +52,16 @@ Two distinct ह are mentioned in शिव सूत्र. Once again, We huma
  #### Summing up
  शिव सूत्र (and most of  वर्ण समास) predate शिक्षा & अष्टाध्यायी. They are sounds from two different anatomy.
  This conclusion is based on -  
- 1. Presence of ऋ and ऌ  as अ-स्पृश्य स्वर (Ability present earlier and absent in  Sapience)
- 2. absence of आ (Ability absent earlier and seen in Sapience)
- 3. absence of 18 varieties of स्वर, (Ability absent earlier and seen in Sapience)
- 4. Presence of ability to distinguish two ह; (Ability Sapience have lost)
-    We can conclude that शिव सूत्र predate Sapience. this gives us a floor of (not-later-than) 40kya.
+ 1. Presence of ऋ and ऌ  as अ-स्पृश्य स्वर (Ability present earlier and absent in  Sapiens)
+ 2. absence of आ (Ability absent earlier and seen in Sapiens)
+ 3. absence of 18 varieties of स्वर, (Ability absent earlier and seen in Sapiens)
+ 4. Presence of ability to distinguish two ह; (Ability Sapiens have lost)
+    We can conclude that शिव सूत्र predate Sapiens. this gives us a floor of (not-later-than) 40kya.
 If we consider ceiling - earliest possible date by which स्वर of शिव सूत्र could be pronounced, we get different earliest possible dates for different स्वर.
 ऋ and ऌ as स्वर goes back to 20-30 crore years [^2] and cease to exist as sound based स्वर by 40kya. Unlike remaining, these are स्वर rooted in limbic system. 
 Quantals (अ इ उ ए ओ) got added at least 2.5 Crore years ago. and as combinatorial ability pre-existed, ऐ and औ could also be produced at least 2.5 crore years ago.
 In nut shell, ability to produce स्वर portion of शिव सूत्र has evolved over long period of times.
-Present formt (अच) has been compiled at least 40 thousand years ago (Time when only Sapience survives) and not before 20-30 lakh year ago (Emergence of Erectus/Habilis).
+Present formt (अच) has been compiled at least 40 thousand years ago (Time when only Sapiens survives) and not before 20-30 lakh year ago (Emergence of Erectus/Habilis).
 
 
 [^1] : Evidence of a Vocalic Proto-System in the Baboon (_Papio papio_) Suggests Pre-Hominin Speech Precursors by Louis Jean Boe and others.
