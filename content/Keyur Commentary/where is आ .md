@@ -1,7 +1,7 @@
 #### where is  आ
 
 **Assumptions**
-1. There exists an ancient but well-preserved exhaustive list of Sanskrit phonemes (Set A - शिव सूत्र [^6]). The low vowel आ ( ä a and ɑ[^7]) is not part of this Set A. आ is different from दीर्घ and प्लुत अ - अऽ and अऽऽ respecively.[^8] 
+1. There exists an ancient but well-preserved exhaustive list of Sanskrit phonemes (Set A - शिव सूत्र [^6]). The low vowel आ ( ä a and ɑ[^7]) is not part of this Set A. आ is different from दीर्घ and प्लुत अ - अऽ and अऽऽ respectively.[^8] 
 2. आ is a low vowel. that means longer phyrangeal cavity is required to produce it. [^1]
 3. There exists another set of universal phonemes (set B - पाणिनीय शिक्षा), for nearly the same language, that includes आ.
    

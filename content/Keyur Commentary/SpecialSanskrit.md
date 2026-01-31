@@ -1,6 +1,6 @@
 # Sanskrit is Special
 
-Human mind works on operating system that we refer to as language. Language has to be learnt to communicate thru language. This - prior learning - was absent when the first language emerged. Language had to bootstrap itself. संस्कृत is a special langauge because it bootstrapped this operating system of mind. When it emerged, संस्कृत could be and had to be  expressed and understood without prior language learning.
+Human mind works on operating system that we refer to as language. Language has to be learnt to communicate thru language. This - prior learning - was absent when the first language emerged. Language had to bootstrap itself. संस्कृत is a special langauge because it bootstrapped this operating system of mind. When it emerged, संस्कृत could be and had to be expressed and understood without prior language learning.
 
 As a result, Sanskrit words have to have meanings derived from its componants [^1]. And most elemental  componants वर्ण have to have meanings built into hard ware of the brain. 
 

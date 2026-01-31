@@ -53,7 +53,7 @@ It divides the long journey into different "Eras" based on major changes in how 
 - Verb endings (तिङ् प्रत्यय) develop — when read through their वर्ण समास, they all relate to seafaring activities.
 - Formal education for language and life skills grows a lot.
 - This helps preserve धातु पाठ and सूत्र पाठ with high accuracy, even though later humans could not pronounce all the original sounds.
-- Institutionalisation and respect for these texts helped them survive major disasters like many LGM (with Homo Erectus) and the Bølling-Allerød & Younger Dryas (with Homo Sapiiense with sizeable loss in texts).
+- Institutionalisation and respect for these texts helped them survive major disasters like many LGM (with Homo Erectus) and the Bølling-Allerød & Younger Dryas (with Homo Sapiiens with sizeable loss in texts).
 - तिङ् Era starts with seafaring, somewhere around 10-15 lakh year ago and ends at some point before the Bølling-Allerød & Younger Dryas. We do not know when.
 
 ### 6. पूर्व संस्कृत Era
