@@ -20,5 +20,7 @@ following are layers -
 10.  14.1.26 : In a world where concepts of ethics or social moral guidelines have yet to evolve - both लिङ् - विधिलिङ् and आशीर्लिङ् will converge into one and convey desire (of someone), This is exactly what we see in पाणिनी.
 11. 140126 :  giong back from लकार as sand clocks - लकार with tide predictions for earliest fishing
 12. Tired on लकार. are entire सूत्र to be interpreted as वर्ण समास or  only प्रत्यय to be interpreted as वर्ण समास
-13. We need framework on when to interprete as वर्ण समास and when to interprete as संज्ञा-समास 
+13. We need framework on when to interprete as वर्ण समास and when to interprete as संज्ञा-समास
+14. 140226: Had heart attack on 050226, survived with help of luck. completed paper extablishing that heritage is at leat 4.3 lakh year old. now back to sutrapath. Science has to be rigorous and yet tentative. AI is great help for a person like me tends to misrtype.
+15. 230226: तिङ् are क्रिया and so लकार also could be क्रिया 
      
