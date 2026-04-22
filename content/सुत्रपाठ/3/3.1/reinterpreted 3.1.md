@@ -29,8 +29,8 @@ inward (insert) sharp stone (and) join till align inside verticle (rope) inward 
 [[3.1.23]] : pull inwrd tumbi connected inside at stone, (making) inward convex curve (or do inward basker), to limp connect life (fish) at tumbi
 [[3.1.24]] : when repeating tide loosens rope, tighten opening in rope and verticles, give javeline  from verticle connection to subjugate live/ to domesticate, standinng untill wave subjugate life inside unto tight standing connection 
 [[3.1.25]] : If water outward rope then wave pushes will loosen floating tumbi. To prevent/minimize this, align tumbi connected up to rope, cope upto jave line, adjust javeline in sand till pull aligns inside. floating tumbi should pop in and out of wave - inside with superior wave as superior wave pushes, again pushed up at (when) water flows out and stand tight vertically till wave tolls inward  and pushes inward again - i.e. till tumbi moves inward and outward - shoreward and seaward with waves and gets submerged when there is superior wave.
-[[3.1.26]] : outside tumbi outward inside tumbi inward (causes) tight (rope) push inward again
-[[3.1.27]] : Beward stone pushes (away) with wave rolling inward from verticle join;  (hence) join/connect/fix stone
+[[3.1.126]] : outside tumbi outward inside tumbi inward (causes) tight (rope) push inward again
+[[3.1.127]] : Beward stone pushes (away) with wave rolling inward from verticle join;  (hence) join/connect/fix stone
 [[3.1.28]] : connect upto (here and here) - moving outward rope outward, carry outward rope, wave inward many knots, rope pushing and rope pulling
 [[3.1.29]] floating tumbi connection - below connect from outward (side of tumbi)
 [[3.1.30]] : hand hold  ए(fish) subjugate push outside
