@@ -24,4 +24,5 @@ following are layers -
 14. 140226: Had heart attack on 050226, survived with help of luck. completed paper extablishing that heritage is at leat 4.3 lakh year old. now back to sutrapath. Science has to be rigorous and yet tentative. AI is great help for a person like me tends to misrtype.
 15. 230226: तिङ् are क्रिया and so लकार also could be क्रिया 
 16. 7.4.26: It is likely that the सूत्र are maintained as they were and not retroactively changed. So untill सुप् तिङ emerge, सूत्र are to be interpreted as वर्ण समास. Once तिङ emerges (3.4.78) the same is not to be interpreted as वर्णसमास and once सुप् emerges 4.1.2, they too are nto to be interpreted as वर्णसमास. A few thousand years before सुप् and तिङ emerge, their वर्ण समास meanings should coincide with their प्रत्यय meanings. 
+17. 6.6.26 : post 4.1.2 i feel varn samaas meanings are becoming less relevant and literal meaning of पद/शब्द seems to be taking a footing. 
      
