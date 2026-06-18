@@ -8,7 +8,7 @@
 | 5   | पञ्च       |             | rope surfacce knot                                               |              |
 | 6   | षट्        |             | pointed curve/coracle                                            |              |
 | 7   | [[सप्तन्]] |             | furrow rope+float OR align floating rope OR aloign float footing |              |
-| 8   | अष्ट       |             | here hook                                                        |              |
+| 8   | [[अष्ट]]   |             | here hook                                                        |              |
 | 9   | नव         |             | pull person                                                      |              |
 | 10  | दश         |             | give punting pole                                                |              |
 प्रथम : Reed platform inside
