@@ -1,13 +1,14 @@
 ==BCKGROUND==
 - In Indian languages, most words are made of other words. For example वसुदेवसुतं is made of three words वसु देव and सुत. 
--  is वसु made of three constituent words व स उ ?
+-  This leads us to question: is वसु made of three constituent words व स उ ?
 - Does Sanskrit वर्ण/अक्षर have meaning  ? Are all words have composite meanings derived from these meanings? Short answer is Yes. 
 - But that knowledge is lost and meanings of वर्ण/अक्षर needs to be deciphered. 
 - Once we reinterpret meanings of ancient most words, an interesting picture emerges.
 - I am deciphering it and there are some very interesting hypothesis that emerge form this work.
-- This is work in progress. There are more tings uncertain than there are certain/confident interpretations. However, It is certain that decipher is not random chance interpretaiton. There is underlying pattern that is real. 
+- This is work in progress. There are more things uncertain than there are certain/confident interpretations. However, It is certain that decipher is not random chance interpretation. There is underlying pattern that is real.
+
 ==EARLY FINDINGS==
-- वर्ण meanings and it seems to emerges from brain circuitry. Meanings are fluid and can take any grammatical form required. Refer to [[Understanding वर्ण]]
+- वर्ण has meanings and it seems to emerges from brain circuitry. Meanings are fluid and can take any grammatical form required. Refer to [[Understanding वर्ण]]
 - All words are composite words all the way down to वर्ण. ALL meanings can be understood from meanings of वर्ण.  Nothing is "assigned." Language is NOT **Saussurean**.
 * Vowels and consonants seem to have emerged at different times. Vowels are old and are used as cases - विभक्ति way before verb-noun distinction emerged. 
 - धातु, प्रत्यय, उप सर्ग - all words describe a physical reality that can be experienced in both - real physical world लोक world and in spoken-auditory वाक worlds. These experiences of both worlds are interchangeable because वर्ण meanings are hard wired in brain and brain can switch between वाक experience and लोक experience and can understand both. The way speaking and hearing are interchangeable.

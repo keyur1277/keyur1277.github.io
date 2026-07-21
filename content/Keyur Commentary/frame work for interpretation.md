@@ -1,4 +1,12 @@
 Frame work for the interpretation of sequence of वर्ण 
+1. Sutra
+	1. from 1.1.1 to 2.4.85 =  as if it is संस्कृत.
+	2. from 3.1.1 up to 4.1.2  = as if it is वर्ण समास  () + as if it is पूर्व संस्कृत as optional interpretation 
+	3. 4.1.2 to  8.1.74 = as if it is पूर्व संस्कृत (सुप् तिङ् are read as if they are संस्कृत, rest as if it is वर्ण समास) 
+	4. from 8.2.1 as if it is संस्कृत 
+2. Dhatu, pratyaya etc
+	1. AS if it is वर्ण समास 
+note: प्रत्यय other than सुप् तिङ् are interpreted as metaphoric/literal meaning augmenter
 
 सूत्र that we have - are they verbatim as they were? or contents are updated? For example परश्च is "परश्च" or "परः च"? in other words, "गुप्तिज्किद्भ्यः" is to be interpreted as "गुप्तिज्किद्भ्यः" or as "गुप् तिज् कित् भ्यस्" if so गुप् is to be read as गुप् or गुपूँ ? गमन is to be considered गुपूँ or गम् or गमॢँ? It is true that words are composite words. But there are अनुबंध and लोप. There are सुप प्रत्यय added to every word in every सूत्र. But originally as वर्ण समास these सुप प्रत्यय did not exist as they are shown in present version. So should गमन be replaced with गम् or गमॢँ? of a later-day version of meaning relevant? 
 Answer: 
@@ -13,12 +21,14 @@ These are rules i will follow for interpretation
     2. In rare cases where सूत्र has तिङ् or other प्रत्यय, we will give same treatment as we give for सुप. 
 2. समास are taken as composite meanings where intellect permits. Where things become too complicated, सूत्र is not to be interpreted. to be skipped. 
 3. संधि विच्छेद to be done. 
-4. प्रातिपदिक समास are to be treated as वर्ण समास. This does make life complicated if we do not go by रूढ अर्थ  and go by लौकिक अर्थ, We will go by lityeral meaning or skip. रूढ अर्थ may not be correct and will not add any new information in any case.
+4. प्रातिपदिक समास are to be treated as वर्ण समास. This does make life complicated if we do not go by रूढ अर्थ  and go by लौकिक (literal) अर्थ, We will go by literal meaning or skip. रूढ अर्थ may not be correct and will not add any new information in any case.
 5. प्रातिपदिक समास are to be interpreted with their "should-have-been-there"/"would-have-been-there" अनुबंध and इत् संज्ञक वर्ण. So कृत will be interpreted as  [[डुकृञ्]] + [[क्त]] and not as [[क]] + [[ऋ]] + [[त]].
 6. When there is a उणादी प्रत्यय we will explore पद as वर्ण समास as well as with अनुबंध and इत् संज्ञक वर्ण and will go by what i deem fit. This interpretation can be altered later, by me or the next generations, if they find that more suitable. So, पद made with उणादी can be interpreted as वर्ण समास as well as प्रत्यय-derived पद. 
 7. Visarg (ह) and Schwa (अ) are ignored. They can be interpreted as "exist" or "here." Both concept are default settings in our (modern H Sapiens) linguistic setup and do not need to be expressly mentioned every time.
-2. धातु and प्रत्यय 
+8. 3.1.1 to 8.1.1 is considered payload, 1st 2nd and remaining 8th adhyay are considered encapsulation. (using TCP/IP{ analogy). Enccapsulation layer is added during/post पूर्व संस्कृत  era and has to be interpreted as it it was Sanskrit itself - full fledge language. 
+9. धातु and प्रत्यय 
     1. धातु are always interpreted from मूल रूप.
     2. धातु are always interpreted as वर्ण समास
     3. धातु are always interpreted from वर्ण and with widest possible interpretation
     4. आनुनासिक can take form of any म्-कार. But not two simultaneously. If two different म-कार are applied, it will create two different versions with two different meanings. Both can be listed as one in धातु पाठ, but i will treat them as separate. So, what is inside can not be on surface or outside at the same time. An exception to this rule is न ण. Both can be interpreted simultaneously.
+    5.
