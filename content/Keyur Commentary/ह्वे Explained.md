@@ -1,7 +1,7 @@
 # Object Permanence, Indexical Sound, and ह्वे
 
 ## Context
-All Sanskrit words are made from Paninian elements like धातु, प्रत्यय, उपसर्ग etc. and meanings are derived from these elements.  Similarly, these elements are also made of an derive meaning from constituent वर्ण. Meaning of Paninian elements can be derived from its constituent वर्ण. Meanings of वर्ण are deciphered and given in [[शिव सूत्र|]]. One such धातु is ह्वे. Its literal meaning can be checked at [[ह्वे|]]. ह्वे is a very important milestone in human cognition as explained below. 
+All Sanskrit words are made from Paninian elements like धातु, प्रत्यय, उपसर्ग etc. and meanings are derived from these elements.  Similarly, these elements are also made of and derive meaning from constituent वर्ण.  Meanings of वर्ण are deciphered and given in [[शिव सूत्र]]. One such धातु is ह्वे. Its literal meaning can be checked at [[ह्वे]]. ह्वे is a very important milestone in human cognition as explained below. 
 The cognition of things that exist only in speech, led to worlds that exist only in speech. 
 
 ## Object permanence
