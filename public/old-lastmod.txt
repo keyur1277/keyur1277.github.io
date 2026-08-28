@@ -5,7 +5,7 @@ import path from "path"
 import { styleText } from "util"
 
 export interface Options {
-  priority: ("git" | "frontmatter" | "filesystem")[]
+priority: ("git" | "frontmatter" | "filesystem")[]
 }
 
 const defaultOptions: Options = {
@@ -37,7 +37,7 @@ function coerceDate(fp: string, d: any): Date {
   return invalidDate ? new Date() : dt
 }
 
-type MaybeDate = undefined | string | number | Date
+type MaybeDate = undefined | string | number
 export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
@@ -81,10 +81,13 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 try {
                   const relativePath = path.relative(repositoryWorkdir, fullFp)
                   const fileMod = await repo.getFileLatestModifiedAsync(relativePath)
-                  if (fileMod) {
-                    created ||= fileMod.created
-                    modified ||= fileMod.committerTime
-                  }
+                    if (fileMod) {
+                        created ||= fileMod.created
+                        modified ||= fileMod.committerTime
+                        } else {
+                          created ||= "01-01-1900"
+                          modified ||= "01-01-1900"
+                        }
                 } catch {
                   console.log(
                     styleText(

@@ -30,10 +30,6 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
             if (fileData.dates) {
-        if (fileData.dates.created) {
-          segments.push(<span>Created: </span>)
-          segments.push(<Date date={fileData.dates.created} locale={cfg.locale} />)
-        }
         if (fileData.dates.modified) {
           segments.push(<span> · Updated: </span>)
           segments.push(<Date date={fileData.dates.modified} locale={cfg.locale} />)
