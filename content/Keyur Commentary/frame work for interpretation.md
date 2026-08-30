@@ -22,7 +22,7 @@ These are rules i will follow for interpretation
 2. समास are taken as composite meanings where intellect permits. Where things become too complicated, सूत्र is not to be interpreted. to be skipped. 
 3. संधि विच्छेद to be done. 
 4. प्रातिपदिक समास are to be treated as वर्ण समास. This does make life complicated if we do not go by रूढ अर्थ  and go by लौकिक (literal) अर्थ, We will go by literal meaning or skip. रूढ अर्थ may not be correct and will not add any new information in any case.
-5. प्रातिपदिक समास are to be interpreted with their "should-have-been-there"/"would-have-been-there" अनुबंध and इत् संज्ञक वर्ण. So कृत will be interpreted as  [[डुकृञ्]] + [[क्त]] and not as [[क]] + [[ऋ]] + [[त]].
+5. प्रातिपदिक समास are to be interpreted with their "should-have-been-there"/"would-have-been-there" अनुबंध and इत् संज्ञक वर्ण. So कृत will be interpreted as  [[डुकृञ् Revolution]] + [[क्त]] and not as [[क]] + [[ऋ]] + [[त]].
 6. When there is a उणादी प्रत्यय we will explore पद as वर्ण समास as well as with अनुबंध and इत् संज्ञक वर्ण and will go by what i deem fit. This interpretation can be altered later, by me or the next generations, if they find that more suitable. So, पद made with उणादी can be interpreted as वर्ण समास as well as प्रत्यय-derived पद. 
 7. Visarg (ह) and Schwa (अ) are ignored. They can be interpreted as "exist" or "here." Both concept are default settings in our (modern H Sapiens) linguistic setup and do not need to be expressly mentioned every time.
 8. 3.1.1 to 8.1.1 is considered payload, 1st 2nd and remaining 8th adhyay are considered encapsulation. (using TCP/IP{ analogy). Enccapsulation layer is added during/post पूर्व संस्कृत  era and has to be interpreted as it it was Sanskrit itself - full fledge language. 
