@@ -27,4 +27,5 @@ following are layers -
 17. 6.6.26 : post 4.1.2 i feel varn samaas meanings are becoming less relevant and literal meaning of पद/शब्द seems to be taking a footing. 
 18. 9.8.26: Quite a few of अ interpreted as नञ् could be आ - Desired or this+here sense.
 19. 25.8.26 each piece of the jigsaw puzzle put in pace makes remaining puzzle easier. Now broad frame work is in pace. so i will pace up and solve things that are below X degree of difficulty. This will resude difficulty level for remaining pieces and in next iteration i will make the cut off X+Y. 
+20. 3.9.26 : इ and उ are inward and outward in wghose context? initially it was only speker's context. But as स्वर विभक्ति it is inward / outward in context of speaker or in context of listener or in context of some object to which इ उ are attached or something else? Push is outwrd push from speaker and pull in inward movement from speaker. So how do they differ from इ उ ? 
      
