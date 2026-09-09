@@ -10,7 +10,11 @@ maneuver of (superior person verb(car
 wave superior carry above + pull handheld tumbi 
 
 वृद्धि = [[वृध्]] + [[क्तिच्]] 
-wave superior carry above + encircle/knot handheld tumbi 
+wave superior carry above + encircle/knot handheld that 
+
+रूढ अर्थ 
+Growth 
+
 
 
 
