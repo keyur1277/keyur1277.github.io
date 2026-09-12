@@ -8,7 +8,7 @@ Bootstrapping of language – by definition – started without वाक inputs
 
 Features common with Great Apes or Old World Monkeys are the hardware portion at bootstrapping. All else, including subsequent brain anatomy changes potentially triggered by software, are that – subsequent to bootstrapping – and needs to be stripped off if we want to understand the environment of emergence of language. We need to shed distinctions of पुरुष, वचन, लिङ्ग , आत्मने-परस्मै, उपसर्ग-धातु-प्रत्यय, काल, भाव-क्रिया, सूप – तिङ् and conceive them in a state where they can morph in each other.
 
- 6. 
+ 6. "I have cast the die. I am writing a book either for my contemporaries or for posterity. It can wait a century for a reader, as God himself has waited six thousand years for a witness."- ble to relate. 
 
 
 

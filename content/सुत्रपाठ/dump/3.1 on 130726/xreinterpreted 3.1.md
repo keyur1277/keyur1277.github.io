@@ -8,9 +8,9 @@
 [[3.1.7]] : hold from tumbi and push stone into water, align/straighten till the stone in the water pulls tumbi, carry on (with instructions-वा) till there are many knots joined.
 [[3.1.8]] : (if) rope is outside furrow, join stone again, untill tumbi pull inside tight
 [[3.1.9]] : (add) Stone until inside connect again and again (i.e. to entire apparatus)
-[[3.1.10]] : rope makes fish pull (retains) roll against the water 
-[[3.1.11]] : hand hold water tumbi (then) stone connected outside, loss of straight (then) knot
-[[3.1.11]] : hand hold water tumbi (then) stone connected outside, loss of straight (then) knot
+[[3.1.11]] : rope makes fish pull (retains) roll against the water 
+[[3.1.10]] : hand hold water tumbi (then) stone connected outside, loss of straight (then) knot
+[[3.1.10]] : hand hold water tumbi (then) stone connected outside, loss of straight (then) knot
 [[3.1.12]] :  make javeline stand superior untill (wave) roll inward, (i.e.) standing outward and wave inward (then) from repeat waves disappear and sand exists
 [[3.1.13]] from soft , हtight (objectify) tumbi before waves rolls in. 
 Be aware that standing joints may open up, (hence) hand-hold (and) join points (loose ends)

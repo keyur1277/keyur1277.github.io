@@ -13,8 +13,8 @@
 | [[क्विप्]]  | none             | maneuver wave rope              | one who does धातु     |
 | [[क्निन्]]  | नि               | maneuver noose pull             |                       |
 | [[क्मरच्]]  | मर               | maneuver inside water walk/knot |                       |
-| क्यच्       | य                | maneuver join knot              |                       |
-| क्यङ्       | य                | maneuver join periphery         |                       |
+| [[क्यच्]]   | य                | maneuver join knot              |                       |
+| [[क्यङ्]]   | य                | maneuver join periphery         |                       |
 | काम्यच्     | काम्य            | maneuver with inside join knot  |                       |
 | कन्         | क                | maneuver pull                   |                       |
 | क्त्रि      |                  |                                 |                       |

@@ -1,10 +1,6 @@
 
-<<<<<<< HEAD
 डुकृञ् is a मूल धातु in Sanskrit and it means "to do."
 Deciphering डु[[कृ]]ञ् meaning from its constituent वर्ण meanings gives generates one  very interesting interpretation. In proto Sanskrit it means - Be ware ([[उ]] of [[ड]]) maneuver/stone ([[क]]) superior([[ऋ]])  surface ([[ञ]]). This is verbal instructions for making and using stone tools.
-=======
-डुकृञ् ([[कृ]]) is primordial sentence, pun intended. It means - Be ware ([[उ]] of [[ड]]) maneuver/stone ([[क]]) superior([[ऋ]])  surface ([[ञ]]).  It is also sentence in punishment sense because it has triggered an infinite loop in OS of human mind.
-
 
 By ~33 lakh years ago (goin by evidence at Lomekwi),  Homonini had figured out how to make and use stone tools.
 Up to this point, like rest of animals, Hominin  had  infinite LOOP akin to REPL (Read-Eval-Print Loop) of Unix as default in their brain's operating system. In animals, we can say instead of print the default output was muscle movement, what we now refer to by word "act" - for animals it is like REAL (Read-Eval-Act-Loop) .   So the OS was at rest waiting to be  triggered by environment. 
