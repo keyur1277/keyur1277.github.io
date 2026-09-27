@@ -20,13 +20,13 @@ Meaning of वर्ण is not defined/created by any individual and in this sen
 
 Imagine yourself to be in the वर्ण or वर्ण-समास [[Era]]. This is prerequisite for context in which original meanings are to be understood
 
-Because all concepts like सुप  तीङ, काल, वचन, पुरुष, कृत, तद्धित, अव्यय, and all those aspects that are not yet expressed in words but are understood in context - all these were convbeyed by वर्ण alone. Because there was nothing else to communnicat with; when you try to grasp meaning of वर्ण, all these are considered to have been encompassed in वर्ण. 
+Because all concepts like सुप  तीङ, काल, वचन, पुरुष, कृत, तद्धित, अव्यय, and all those aspects that are not yet expressed in words but are understood in context - all these were conveyed by वर्ण alone. Because there was nothing else to communicate with; when you try to grasp meaning of वर्ण, all these are considered to have been encompassed in वर्ण. 
 
 Same is true for धातु. 
 
-धातु can be understood to express meaning of every word that can be derievd from धातु - All 18 verb forms, all 21 noun(सुप) forms, all 10 काल, all 3 लिंग, all 3 वचन, as कृत, as तद्धित, as विकरण. It also encompasses everything that language and grammar are not articulating.
+धातु can be understood to express meaning of every word that can be derived from धातु - All 18 verb forms, all 21 noun(सुप) forms, all 10 काल, all 3 लिंग, all 3 वचन, as कृत, as तद्धित, as विकरण. It also encompasses everything that language and grammar are not articulating.
 
-To reiterate,  वर्ण encompasses all linguistic forms tat can be derived. वर्ण is itself करता, किरीय, कर्म, करण, संप्रदान, अपादान, अधिकरण. It encompases all काल, It encompases past present, future and remaining 7 काल. It is male and female and neuter, it is एकवचन, द्वि वचन and बहु वचन. And it is all those, and beyond (what is not expressed in words but is understood from context), at once.
+To reiterate,  वर्ण encompasses all linguistic forms tat can be derived. वर्ण is itself क्रिया, कर्म, करण, संप्रदान, अपादान, अधिकरण. It encompasses all काल, It encompasses past present, future and remaining 7 काल. It is male and female and neuter, it is एकवचन, द्वि वचन and बहु वचन. And it is all those, and beyond (what is not expressed in words but is understood from context), at once.
 
 To give an example - 
 If we are interpreting a [[र]] वर्ण, it can mean, blood, flow (property of blood), invigorating /strengthening (property of blood) water (object that has property of flow), sharp (what causes blood), shining (property of sharp), fire (flowing/shining), emotions associated with blood, flow, sharp, shining, fire; meaning (as abstraction of flow), enchanting (property of fire)…

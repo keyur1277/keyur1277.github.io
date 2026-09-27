@@ -1,4 +1,5 @@
 प्रादयः are [[निपात]] as per [[1.4.58]]. The fact that पाणिनि used word निपात means derivation of these words were already lost. 
+प्र । परा । अप । सम् । अनु । अव । निस् । निर् । दुस् । दुर् । वि । आङ् । नि । अधि । अपि । अति । सु । उद् । अभि । प्रति । परि । उप ।
 They are [[उपसर्ग]]  when used at क्रियायोग [[1.4.59]] 
 
 These are - 

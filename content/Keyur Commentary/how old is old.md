@@ -1,4 +1,4 @@
-### Antiquity of पूर्वानुपूर्व शिवसूत्र [^10]
+or ### Antiquity of पूर्वानुपूर्व शिवसूत्र [^10]
 
 #### Abstract
 The phonological distinctions presupposed by the vowel section of the Śiva­sūtra require the ability to produce quantal vowels, while indicating articulatory capabilities different from those of anatomically modern humans. This places the creation of the Śiva­sūtra no earlier than the evolution of the biological capacity for quantal vowel production. A more confident lower bound for the composition of the vowel section of the Śiva­sūtra lies at the extinction of _Homo_ species other than _Homo sapiens_ (~40,000 years ago).
