@@ -1,1 +1,0 @@
-22.12.25 : I assume knotting of some sort existed since वर्ण Epoch and च mens knot proper. [[ऐऔच्]] exists part of शिवसूत्र. So I consider knot to be present from वर्ण Epoch. 
