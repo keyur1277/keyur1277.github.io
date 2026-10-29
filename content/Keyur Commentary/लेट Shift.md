@@ -32,7 +32,7 @@
 
 ## 4. What tense would this sound like, translated into modern grammar?
 
-- Tense and mood are devices for marking a **gap** between utterance-time/reality and event-time/reality (past = before now, future = not yet, irrealis/subjunctive = not necessarily actual). All of them presuppose representing an event as distinct from the present perceptual state — exactly what a pre-permanence mind cannot do.
+- Tense and mood are devices for marking a **gap** between utterance-time/reality and event-time/reality (past = before now, future = not yet, realiतीस /subjunctive = not necessarily actual). All of them presuppose representing an event as distinct from the present perceptual state — exactly what a pre-permanence mind cannot do.
 - So the predicted form is **not** simple present tense (which is itself one term in an opposition against past/future/hypothetical). It's a form that is **tense-and-mood neutral by necessity** — not through economy, but because the opposing categories don't exist to be elided from. Such a form should be usable, unchanged, wherever a modern language would need several different tenses/moods, because for the system producing it, "was / is / will be / may be" were never four options — only one undifferentiated condition.
 
 ## 5. लेट् as a structural correspondence

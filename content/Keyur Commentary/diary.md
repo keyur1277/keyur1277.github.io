@@ -31,5 +31,6 @@ following are layers -
 21. 02.10.26: Most places where [[प्रत्याहार]] इक् is used इण् would have sufficed. But ऋ and ऌ are considered a dimensional cousins of इ उ. One can say that  इक् is used because इण् is ambiguous. To us they are ambiguous, but to the original audience it would have been amply clear whether instructions pertain to स्वर विभक्ति or स्वर + व्यंजन and इण्  would not have been ambiguous at all. इक्  is used because ऋ and ऌ  as as much directional in their cognitive interpretation as are इ उ. Given the sequencing; इ and उ  ↔ ऋ and ऌ;  ऋ  corresponding with इ is to be interpreted as inward = superiority and outward = inferior.
 22. 071026 :ण and न, क and प - interchangeability : what would make pull and push interchangeable? digging, pulling water with rope and vassal, sex, walk. For an arboreal ape, pushing rope does not equal to pulling. Pull vbecomes push under certain circumstances - cagtegorically with water/blood and fingers/pointed; but push does not become pull - except at beginign of धातु (6.1.64). This could be phonetic or physical. and there can be myultiple contextx spread ocevr lakhs of years too. to explore with णत्व. 
 23. 17.10.26: Chimps use spears to hunt bushbabies - for external time reference 
+24. 20.10.26 - It is irony that Ashtadhyayi has been preserved at Takshashila where there is neither sea not sarasvati
 
      
