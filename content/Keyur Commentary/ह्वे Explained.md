@@ -5,19 +5,22 @@ All Sanskrit words are made from Paninian elements like धातु, प्र�
 The cognition of things that exist only in speech, led to worlds that exist only in speech. 
 
 ## Object permanence
-
 Object permanence is the cognitive capacity to represent an object as continuing to exist even when it is no longer perceived — out of sight, out of hearing, out of touch. Developmentally, it emerges gradually in infancy (classically associated with Piaget's sensorimotor stage). Phylogenetically, it is not a human-specific trait; it appears in varying degrees across species, and its full form depends on cortical structures capable of holding a symbolic "tag" for an absent referent.
-
 ## Absence of object permanence in early language
-
 Before this capacity is in place — ontogenetically in the infant, and phylogenetically in early hominin communication — a sound cannot function as a _reference_ to something absent, because there is no stable mental representation of "the object, even when not present" for the sound to point to. Referential (Saussurean) signs presuppose exactly this: a signifier standing for a signified that can be entertained independently of the signifier's occurrence.
 
 What remains possible without object permanence is **indexical** communication: a sound whose occurrence is not a pointer to something else, but is itself functionally equivalent to the presence of the thing. The cry, call, or utterance does not _mean_ "predator is here" in the referential sense — its occurrence _is_ the predator's presence, processed directly. There is no gap between sign and referent for the system to bridge, because no such gap can yet be represented.
 
 ## Realism of heard/spoken sound as indexical meaning
-
 This indexical mode is not metaphorical shorthand — it describes a real, more primitive processing pathway: a limbic "experience" pathway in which a heard or spoken sound is functionally equivalent to the object's presence, as opposed to the later cortical "perception" pathway, which holds a symbolic tag about the object independent of any given occurrence. The indexical mode does not vanish the moment object permanence emerges; it persists in parallel until this limbic pathway closes. Grammatically, communication built on this mode would be expected to be tense-and-mood neutral — there is no "was," "will be," or "might be" for something whose sound-occurrence _is_ its existence.
 
+## Realism - Example of indexical meaning
+Even today - "representation" can invoke reality  vividly.   On a movie screen one "sees" "images" of things that do not "really exist." The images on screen are able to create inherent perception of "seeing" because for brain it is "real" seeing.  This, brain treating "representation" as real, is  seen in all screens ranging from mobile to movies, and nearly all art.
+
+At the dawn of language - this, representation invoking real response, was mainly restricted to speech - writing and drawing not being available. And this speech representation triggered realism is what word ह्वे means - "into existence (by/of) speech".  Because वर्ण had meanings rooted in neural circuitry - they way shapes have in visuals, they invoked real experience the way visuals do today. Partly facilitated by the fact that cortex had not yet evolved enough to hijack वर्ण meanings into linguistic frame - different from experienced frame.
+
+At dawn of language one could experience reality from speech the way we do for movies today. Realization that representation triggerred reality is not real - must have been less evident.
+Also, this representation enabled real experience would have made sound based communication possible before object permeance. 
 ## ह्वे — literal meaning and fit
 
 [[ह्वे]] is read here as **"existence received (in) speech"** — not "to call/summon" in the derived, referential sense given by standard dictionaries, but the more primitive claim underlying that later gloss: the existence of a thing arrives, is _received_, in the very event of speech-sound. This is a near-literal statement of the indexical mechanism above — sound-occurrence functioning as received presence, not as a symbol referring to an absent presence.

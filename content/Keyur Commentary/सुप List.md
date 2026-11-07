@@ -25,15 +25,15 @@ Process Steps
 | punting pole [[दश]]                            |             | NA              |                                                                  |
 Details of activities for each steps
 
-|                                            |                                       |                                       |                                                               |
-| ------------------------------------------ | ------------------------------------- | ------------------------------------- | ------------------------------------------------------------- |
-| **Name of Activity**                       | **For single draft**                  | **Double draft**                      | **Multi draft**                                               |
-| Reed platform inside (प्रथम)               | Verb(furrow/gather) outside (सुँ)     | At/ up to above (औ)                   | Wide furrow (जस्)                                             |
-| Roll in wave float connect द्वितीय         | Here inside (अम्)                     | At curve / up to above curve (औट्)    | Erect (as measurement) furrow (शस्)                           |
-| Superior floaters that connect below तृतीय | Up to curve (टा)                      | ground connected upto inside (भ्याम्) | steady ground below furrow (भिस्)                             |
-| Walk to float  water platform (चतुर्थ)     | Into outside (ङे)                     | ground connected till inside (भ्याम्) | ground connect furrow=grounded in furrow (भ्यस्)              |
-| footing skin/surface repeat पञ्च           | outside below gathered surface (ङसिँ) | ground connected till inside (भ्याम्) | grounded in furrow (भ्यस्)                                    |
-| Nails षष्ट                                 | outside gathered ([[ङस्]])            | From furrow (ओस्)                     | Upto inside/ till inside (आम्)                                |
-| Align rope float सप्त                      | outside below/inward (ङि)             | From furrow (ओस्)                     | make furrow footing / landing<br><br>verb(gather) rope (सुप्) |
+|                                                                    |                                       |                                           |                                                               |
+| ------------------------------------------------------------------ | ------------------------------------- | ----------------------------------------- | ------------------------------------------------------------- |
+| **Name of Activity**                                               | **For single draft**                  | **Double draft**                          | **Multi draft**                                               |
+| Reed platform inside (प्रथम)                                       | Verb(furrow/gather) outside (सुँ)     | At/ up to above (औ)                       | Wide furrow (जस्)                                             |
+| Roll in wave float connect द्वितीय                                 | Here inside (अम्)                     | At curve / up to above curve (औट्)        | Erect (as measurement) furrow (शस्)                           |
+| Superior log/floaters that connect below - Keel of the ship- तृतीय | Up to curve ([[टा]])                  | ground connected upto inside ([[भ्याम्]]) | steady ground below furrow ([[भिस्]])                         |
+| Walk to float  water platform (चतुर्थ)                             | Into outside (ङे)                     | ground connected till inside ([[भ्याम्]]) | ground connect furrow=grounded in furrow ([[भ्यस्]])          |
+| footing skin/surface repeat पञ्च                                   | outside below gathered surface (ङसिँ) | ground connected till inside ([[भ्याम्]]) | grounded in furrow ([[भ्यस्]])                                |
+| Nails hooks षष्ट                                                   | outside gathered ([[ङस्]])            | From furrow (ओस्)                         | Upto inside/ till inside (आम्)                                |
+| Align rope float सप्त                                              | outside below/inward (ङि)             | From furrow (ओस्)                         | make furrow footing / landing<br><br>verb(gather) rope (सुप्) |
 
 

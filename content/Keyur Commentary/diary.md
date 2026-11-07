@@ -32,5 +32,7 @@ following are layers -
 22. 071026 :ण and न, क and प - interchangeability : what would make pull and push interchangeable? digging, pulling water with rope and vassal, sex, walk. For an arboreal ape, pushing rope does not equal to pulling. Pull vbecomes push under certain circumstances - cagtegorically with water/blood and fingers/pointed; but push does not become pull - except at beginign of धातु (6.1.64). This could be phonetic or physical. and there can be myultiple contextx spread ocevr lakhs of years too. to explore with णत्व. 
 23. 17.10.26: Chimps use spears to hunt bushbabies - for external time reference 
 24. 20.10.26 - It is irony that Ashtadhyayi has been preserved at Takshashila where there is neither sea not sarasvati
+25. 30.10.26: Decip[hering entire sutra ]as a वर्ण समास is not needed. धातु + प्रत्यय etc - पाणिनि inputs are to be interpreted as वर्ण समास .  Occasionally पद is to be interpreted as  वर्ण समास. Initial efforts to interpreted 3.1 etc are dumped  because it was interpreted with entore suitra as वर्ण समास. Good rule of thumb is - वर्ण समास is applied backward whatever level up to which meanings are explained by पाणिनि /यास्क.  IF पद is निपातन, पद is interpreted as  वर्ण समास. if धातु - प्रत्यय derivation is given for पद -  धातु - प्रत्ययare interpreted as वर्ण समास.
+26. It is interesting to noe that अष्टाध्यायी has many [[सूप]] centric words but not so many [[तिङ्]] ccentric words. 
 
      
