@@ -6,4 +6,5 @@ Known facts
 * Consonants could be pronounced without a trailing vowel. The trailing vowel was not mandatory. अ at end was not default.
 * back-low vowels were difficult/indistinguishable
 * with higher epiglottis and larynx, it was possible to  peak while drinking eating 
+* semantics follow phonetics - meanings are derived from phonetic derivation
   

@@ -13,7 +13,7 @@ Process Steps
 
 | **Name of Activity**                           | Key         | स्वर as विभक्ति | **Description**                                                  |
 | ---------------------------------------------- | ----------- | --------------- | ---------------------------------------------------------------- |
-| Reed platform inside ([[प्रथम]])               | Make        | [[उ]]           | Platform that goes inside water                                  |
+| Reed platform inside ([[प्रथम]])               | Make/keel   | [[उ]]           | Platform that goes inside water                                  |
 | Roll in wave float connect [[द्वितीय]]         | Bottom      | [[इ]]           | Where high tide wave should connect – measure of height          |
 | Superior floaters that connect below [[तृतीय]] | Floater     | [[इ]]           | connecting where will give superior float - water level in depth |
 | Walk to float water platform ([[चतुर्थ]])      | Launch      | [[ए]]           | Where to walk to get float                                       |

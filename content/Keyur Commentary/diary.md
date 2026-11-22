@@ -34,5 +34,6 @@ following are layers -
 24. 20.10.26 - It is irony that Ashtadhyayi has been preserved at Takshashila where there is neither sea not sarasvati
 25. 30.10.26: Decip[hering entire sutra ]as a वर्ण समास is not needed. धातु + प्रत्यय etc - पाणिनि inputs are to be interpreted as वर्ण समास .  Occasionally पद is to be interpreted as  वर्ण समास. Initial efforts to interpreted 3.1 etc are dumped  because it was interpreted with entore suitra as वर्ण समास. Good rule of thumb is - वर्ण समास is applied backward whatever level up to which meanings are explained by पाणिनि /यास्क.  IF पद is निपातन, पद is interpreted as  वर्ण समास. if धातु - प्रत्यय derivation is given for पद -  धातु - प्रत्ययare interpreted as वर्ण समास.
 26. It is interesting to noe that अष्टाध्यायी has many [[सूप]] centric words but not so many [[तिङ्]] ccentric words. 
+27. 141126 : Though अध्याय 3.1 seems to be interpretable as वर्ण समास, It seems acceptable to tread backward with considering सुप as par their पाणिनि meanings. In pre boat making world, वर्ण समार resembling सुप fitting in 7 विभक्ति seems impossible without retrofitting. I have nto calculated odds, but retrofitting seems the only possibility.  So with वर्ण समास as possible interpretation, compositional reinterpretation is also attempted 
 
      

@@ -5,3 +5,5 @@
 12.10,26 L: complete thoughts in [[जनमेजय]]  in context of मुम प्रत्यय 
 17.10,26: आघात derivation
 071126 - derivation and meaning of each step of क्रिया
+091126: Complete सर्वनाम going back to इत as डतमच् lead to think of what is लौकिक अर्थ of  ड causing टि लोप 
+101126: translate प्रकृति. profuse polysemi like नेत्र 
